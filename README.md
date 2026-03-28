@@ -131,33 +131,6 @@ Dá uma olhada nos microserviços:
 
 ---
 
-## 🎯 O que eu curto fazer
-
-```java
-public class Desenvolvedor {
-    private String nome = "Gabriel Quintanilha";
-    private String[] habilidades = {
-        "Microserviços",
-        "Spring Boot",
-        "Clean Architecture",
-        "Design Patterns",
-        "RESTful APIs",
-        "Cloud Computing"
-    };
-    
-    private String[] estudando = {
-        "Kubernetes",
-        "Event-Driven Architecture",
-        "Apache Kafka",
-        "GraphQL"
-    };
-    
-    private String objetivo = "Construir sistemas que funcionam DE VERDADE e são fáceis de manter";
-}
-```
-
----
-
 ## 💡 No que eu já trabalhei
 
 **Desenvolvimento Backend:**
@@ -181,28 +154,11 @@ public class Desenvolvedor {
 
 ---
 
-## 🎓 Estudos e Certificações
-
-🎯 **Java Developer** - Focado em Spring Framework  
-📚 **Microservices Architecture** - Design e Implementação  
-☁️ **AWS Cloud Practitioner** - Estudando (em andamento)
-
----
-
-## 💼 Bora trabalhar juntos?
-
-To procurando oportunidades como:
-- **Desenvolvedor Java Backend** (Pleno/Sênior)
-- **Arquiteto de Microserviços**
-- **Full Stack** (Java + React/Next.js)
-
----
-
 ## 📫 Onde me achar
 
-💼 **LinkedIn**: [Gabriel Quintanilha](https://linkedin.com/in/seu-perfil)  
-📧 **Email**: seu-email@gmail.com  
-📷 **Instagram**: [@seu-perfil](https://instagram.com/seu-perfil)  
+💼 **LinkedIn**: [Gabriel Quintanilha](https://www.linkedin.com/in/gabriel-quintanilha-997360185/)  
+📧 **Email**: gabriel.hemendinger@gmail.com  
+📷 **Instagram**: [@seu-perfil](https://www.instagram.com/gabriel_quintanilha09/)  
 🐙 **GitHub**: Você já ta aqui! 😄
 
 ---
