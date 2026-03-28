@@ -1,4 +1,4 @@
-# E aí! 👋 Sou o Gabriel
+# E aí! 👋 Sou o Quintanilha
 
 <div align="center">
   
