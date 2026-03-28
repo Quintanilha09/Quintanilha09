@@ -183,8 +183,6 @@ Estou procurando oportunidades como:
 ---
 
 <div align="center">
-  
-### 💭 *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
 
 ![](https://komarev.com/ghpvc/?username=Quintanilha09&color=blue&style=flat-square&label=Visitas+no+perfil)
 
