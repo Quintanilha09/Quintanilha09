@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Gabriel Quintanilha
+# E aí! 👋 Sou o Gabriel
 
 <div align="center">
   
@@ -8,42 +8,47 @@
 
 </div>
 
-## 🚀 Sobre Mim
+## 👨‍💻 Um pouco sobre mim
 
-🔹 **Desenvolvedor Java** apaixonado por construir soluções escaláveis e robustas  
-🔹 Especializado em **Spring Framework**, **Microserviços** e **Cloud Computing**  
-🔹 Atualmente **procurando oportunidades** para aplicar minha expertise em projetos desafiadores  
-🔹 Focado em **Clean Code**, **SOLID** e **Design Patterns**  
-🔹 Entusiasta de **DevOps** e **CI/CD**
+Fala pessoal! Sou desenvolvedor Java e adoro construir paradas bacanas com **Spring Boot** e **Microserviços**. Quando não to debugando código, to estudando alguma tech nova ou pensando em como melhorar algum sistema.
+
+Curto muito trabalhar com **APIs RESTful**, **banco de dados** (PostgreSQL é vida ❤️) e colocar tudo pra rodar na **AWS**. Também manjo de **Docker**, **Redis** e tô sempre ligado nas boas práticas tipo **Clean Code** e **SOLID**.
+
+Ah, e sim... **to de olho em oportunidades** para trampar em projetos desafiadores! 🚀
 
 ---
 
-## 💻 Stack Tecnológico
+## 🛠️ Tecnologias que eu curto usar
 
-### Backend & Frameworks
+**Backend (meu forte):**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-### Databases
+**Banco de Dados:**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Cloud & DevOps
+**Cloud & DevOps:**
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Frontend
+**Frontend (quando precisa):**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Tools & Others
+**Ferramentas do dia a dia:**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -51,62 +56,64 @@
 
 ---
 
-## 🏆 Projeto em Destaque
+## 🏡 Projeto que eu to orgulhoso
 
-### 🏡 ArremateAI - Plataforma de Leilões de Imóveis
+### ArremateAI - Plataforma de Leilões de Imóveis
 
-> **Arquitetura de Microserviços** completa para leilões online de imóveis com sistema de autenticação, gestão de vendedores PJ e processamento de mídia.
+É basicamente uma plataforma completa de leilões de imóveis que eu construí do zero usando **arquitetura de microserviços**. A parada tem autenticação com 2FA, gestão de vendedores PJ (valida CNPJ automático usando API da Receita Federal), processamento de imagem e vídeo, notificações por email... enfim, é bem completa!
+
+Dá uma olhada nos microserviços:
 
 <details>
-<summary><b>📦 Microserviços & Repositórios</b></summary>
+<summary><b>📦 Os 7 Microserviços</b></summary>
 
 <br>
 
-| Serviço | Tecnologia | Descrição | Repositório |
-|---------|-----------|-----------|-------------|
-| **Gateway** | Spring Cloud Gateway | API Gateway com rate limiting e circuit breaker | [📂 Ver Código](https://github.com/Quintanilha09/arremateai-gateway) |
-| **Identity** | Spring Security + OAuth2 | Autenticação, 2FA, JWT, Trusted Devices | [📂 Ver Código](https://github.com/Quintanilha09/arremateai-identity) |
-| **Property Catalog** | Spring Data JPA | Catálogo de imóveis com busca avançada | [📂 Ver Código](https://github.com/Quintanilha09/arremateai-property-catalog) |
-| **Vendor** | WebFlux + OpenFeign | Registro de vendedores PJ com validação CNPJ | [📂 Ver Código](https://github.com/Quintanilha09/arremateai-vendor) |
-| **UserProfile** | Spring Cache | Gerenciamento de perfis e favoritos | [📂 Ver Código](https://github.com/Quintanilha09/arremateai-userprofile) |
-| **Media** | AWS S3 + CloudFront | Upload e processamento de imagens/vídeos | [📂 Ver Código](https://github.com/Quintanilha09/arremateai-media) |
-| **Notification** | JavaMail + SQS | Sistema de notificações multi-canal | [📂 Ver Código](https://github.com/Quintanilha09/arremateai-notification) |
+| Serviço | Tecnologia Principal | O que faz | Repositório |
+|---------|---------------------|-----------|-------------|
+| **Gateway** | Spring Cloud Gateway | A porta de entrada - controla rate limiting, circuit breaker, essas paradas | [Ver código](https://github.com/Quintanilha09/arremateai-gateway) |
+| **Identity** | Spring Security + OAuth2 | Cuida de login, 2FA, JWT, dispositivos confiáveis... | [Ver código](https://github.com/Quintanilha09/arremateai-identity) |
+| **Property Catalog** | Spring Data JPA | Catálogo de imóveis com busca avançada e filtros | [Ver código](https://github.com/Quintanilha09/arremateai-property-catalog) |
+| **Vendor** | WebFlux + OpenFeign | Registro de vendedores PJ com validação de CNPJ | [Ver código](https://github.com/Quintanilha09/arremateai-vendor) |
+| **UserProfile** | Spring Cache | Gerencia perfis, favoritos, essas coisas | [Ver código](https://github.com/Quintanilha09/arremateai-userprofile) |
+| **Media** | AWS S3 + CloudFront | Faz upload e processa imagens/vídeos | [Ver código](https://github.com/Quintanilha09/arremateai-media) |
+| **Notification** | JavaMail + SQS | Manda notificações por email, push, in-app... | [Ver código](https://github.com/Quintanilha09/arremateai-notification) |
 
 </details>
 
 <details>
-<summary><b>🛠️ Tecnologias Utilizadas</b></summary>
+<summary><b>🔧 Stack completa do projeto</b></summary>
 
 <br>
 
 - **Backend**: Java 17, Spring Boot 3.2.2
-- **Security**: Spring Security 6, JWT, OAuth2 (Google/Facebook), 2FA
-- **Database**: PostgreSQL 16, Flyway Migrations
-- **Cache**: Redis 7 (perfis, favoritos, rate limiting)
-- **Cloud**: AWS S3, CloudFront CDN, SQS
-- **Gateway**: Spring Cloud Gateway, Resilience4j (Circuit Breaker)
-- **APIs Externas**: ReceitaWS (validação CNPJ), ViaCEP
-- **Email**: JavaMail + Thymeleaf Templates
+- **Segurança**: Spring Security 6, JWT, OAuth2 (Google/Facebook), 2FA
+- **Banco**: PostgreSQL 16, Flyway pra migrations
+- **Cache**: Redis 7 (uso pra perfis, favoritos, rate limiting)
+- **Cloud**: AWS S3, CloudFront, SQS
+- **Gateway**: Spring Cloud Gateway com Resilience4j (Circuit Breaker)
+- **APIs Externas**: ReceitaWS (validação de CNPJ), ViaCEP
+- **Email**: JavaMail + templates em Thymeleaf
 - **DevOps**: Docker, Docker Compose, GitHub Actions
 - **Frontend**: Next.js 14, TypeScript, TailwindCSS
 
 </details>
 
 <details>
-<summary><b>✨ Funcionalidades Principais</b></summary>
+<summary><b>✨ O que o sistema faz</b></summary>
 
 <br>
 
-- ✅ **Autenticação Completa**: Registro, Login, 2FA, OAuth2 Social Login
-- ✅ **Sistema de Vendedores PJ**: Validação CNPJ via API Receita Federal
-- ✅ **Gestão de Imóveis**: CRUD completo com busca avançada e filtros dinâmicos
-- ✅ **Sistema de Leilões**: Lances em tempo real, histórico de lances
-- ✅ **Upload de Mídia**: Processamento de imagens (thumbnails, compressão) e vídeos
-- ✅ **Notificações Multi-Canal**: Email, Push, In-App com templates HTML
-- ✅ **Favoritos e Perfil**: Sistema de favoritos, configurações personalizadas
-- ✅ **Trusted Devices**: Dispositivos confiáveis com 2FA bypass (30 dias)
-- ✅ **Rate Limiting**: Controle de requisições distribuído com Redis
-- ✅ **Circuit Breaker**: Resiliência com fallbacks automáticos
+- ✅ Sistema completo de autenticação (registro, login, 2FA, login social)
+- ✅ Vendedores PJ com validação de CNPJ na API da Receita Federal
+- ✅ CRUD de imóveis com busca avançada e filtros dinâmicos
+- ✅ Sistema de leilões com lances em tempo real
+- ✅ Upload de imagens (gera thumbnails, comprime) e vídeos
+- ✅ Notificações por email, push e in-app com templates HTML
+- ✅ Sistema de favoritos e configurações personalizadas
+- ✅ Dispositivos confiáveis (não precisa 2FA por 30 dias)
+- ✅ Rate limiting distribuído com Redis
+- ✅ Circuit Breaker pra resiliência
 
 </details>
 
@@ -124,12 +131,12 @@
 
 ---
 
-## 🎯 Áreas de Interesse
+## 🎯 O que eu curto fazer
 
 ```java
 public class Desenvolvedor {
     private String nome = "Gabriel Quintanilha";
-    private String[] especialidades = {
+    private String[] habilidades = {
         "Microserviços",
         "Spring Boot",
         "Clean Architecture",
@@ -138,72 +145,72 @@ public class Desenvolvedor {
         "Cloud Computing"
     };
     
-    private String[] aprendendo = {
+    private String[] estudando = {
         "Kubernetes",
         "Event-Driven Architecture",
         "Apache Kafka",
         "GraphQL"
     };
     
-    private String objetivo = "Construir sistemas escaláveis e resilientes";
+    private String objetivo = "Construir sistemas que funcionam DE VERDADE e são fáceis de manter";
 }
 ```
 
 ---
 
-## 📈 Experiência
+## 💡 No que eu já trabalhei
 
-### **Backend Development**
-- Desenvolvimento de APIs RESTful com Spring Boot
-- Implementação de arquitetura de microserviços
-- Integração com serviços AWS (S3, SQS, CloudFront)
-- Sistema de autenticação e autorização (JWT, OAuth2)
-- Gestão de banco de dados (PostgreSQL, Redis)
+**Desenvolvimento Backend:**
+- APIs RESTful com Spring Boot
+- Arquitetura de microserviços (como o ArremateAI que mostrei ali em cima)
+- Integração com AWS (S3, SQS, CloudFront)
+- Autenticação e autorização (JWT, OAuth2, 2FA)
+- Banco de dados relacional e cache (PostgreSQL, Redis)
 
-### **DevOps & Cloud**
-- Containerização com Docker e Docker Compose
+**DevOps e Cloud:**
+- Docker e Docker Compose pra containerizar tudo
 - CI/CD com GitHub Actions
-- Deploy em ambientes cloud (AWS)
-- Monitoramento e logs distribuídos
+- Deploy na AWS
+- Logs e monitoramento de sistemas distribuídos
 
-### **Boas Práticas**
-- Clean Code e SOLID principles
-- Design Patterns (Factory, Strategy, Observer, etc.)
-- TDD (Test-Driven Development)
+**Boas Práticas:**
+- Clean Code e princípios SOLID (levo isso a sério)
+- Design Patterns (Factory, Strategy, Observer, essas paradas)
+- TDD quando dá
 - Code Review e Git Flow
 
 ---
 
-## 🎓 Certificações & Educação
+## 🎓 Estudos e Certificações
 
-🎯 **Java Developer** - Foco em Spring Framework  
+🎯 **Java Developer** - Focado em Spring Framework  
 📚 **Microservices Architecture** - Design e Implementação  
-☁️ **AWS Cloud Practitioner** - Em andamento  
+☁️ **AWS Cloud Practitioner** - Estudando (em andamento)
 
 ---
 
-## 💼 Procurando Oportunidades
+## 💼 Bora trabalhar juntos?
 
-Estou em busca de oportunidades como:
+To procurando oportunidades como:
 - **Desenvolvedor Java Backend** (Pleno/Sênior)
 - **Arquiteto de Microserviços**
-- **Full Stack Developer** (Java + React/Next.js)
+- **Full Stack** (Java + React/Next.js)
 
 ---
 
-## 📫 Como me Encontrar
+## 📫 Onde me achar
 
 💼 **LinkedIn**: [Gabriel Quintanilha](https://linkedin.com/in/seu-perfil)  
 📧 **Email**: seu-email@gmail.com  
 📷 **Instagram**: [@seu-perfil](https://instagram.com/seu-perfil)  
-🐙 **GitHub**: [@Quintanilha09](https://github.com/Quintanilha09)
+🐙 **GitHub**: Você já ta aqui! 😄
 
 ---
 
 <div align="center">
   
-### 💡 *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
+### 💭 *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
 
-![Profile Views](https://komarev.com/ghpvc/?username=Quintanilha09&color=brightgreen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Quintanilha09&color=blue&style=flat-square&label=Visitas+no+perfil)
 
 </div>
