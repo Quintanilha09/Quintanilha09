@@ -127,7 +127,8 @@ Dá uma olhada nos microserviços:
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quintanilha09&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Linguagens%20que%20mais%20uso)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quintanilha09&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quintanilha09&theme=tokyonight)
 
 </div>
 
