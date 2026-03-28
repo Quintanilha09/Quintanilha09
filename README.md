@@ -159,8 +159,6 @@ Dá uma olhada nos microserviços:
 
 ## 🎓 Estudos e Certificações
 
-🎯 **Java Developer** - Focado em Spring Framework  
-📚 **Microservices Architecture** - Design e Implementação  
 ☁️ **AWS Cloud Practitioner** - Estudando (em andamento)
 
 ---
