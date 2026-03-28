@@ -135,33 +135,6 @@ Dá uma olhada nos microserviços:
 
 ---
 
-## 🎯 O que eu curto fazer
-
-```java
-public class Desenvolvedor {
-    private String nome = "Gabriel Quintanilha";
-    private String[] habilidades = {
-        "Microserviços",
-        "Spring Boot",
-        "Clean Architecture",
-        "Design Patterns",
-        "RESTful APIs",
-        "Cloud Computing"
-    };
-    
-    private String[] estudando = {
-        "Kubernetes",
-        "Event-Driven Architecture",
-        "Apache Kafka",
-        "GraphQL"
-    };
-    
-    private String objetivo = "Construir sistemas escaláveis e fáceis de manter";
-}
-```
-
----
-
 ## 💡 No que já trabalhei
 
 **Desenvolvimento Backend:**
@@ -198,7 +171,6 @@ public class Desenvolvedor {
 Estou procurando oportunidades como:
 - **Desenvolvedor Java Backend** (Pleno/Sênior)
 - **Arquiteto de Microserviços**
-- **Full Stack** (Java + React/Next.js)
 
 ---
 
