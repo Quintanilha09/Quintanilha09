@@ -127,7 +127,7 @@ Dá uma olhada nos microserviços:
 
 <div align="center">
   
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quintanilha09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quintanilha09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quintanilha09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
