@@ -15,6 +15,7 @@ Fala pessoal! Sou desenvolvedor Java e construo soluções com **Spring Boot** e
 Gosto de trabalhar com **APIs RESTful**, **banco de dados** (PostgreSQL é vida ❤️) e colocar tudo para rodar na **AWS**. Também domino **Docker**, **Redis** e estou sempre atento às boas práticas como **Clean Code** e **SOLID**.
 
 Hoje atuo na **Capgemini**.
+
 **Estou de olho em oportunidades** para trabalhar em projetos desafiadores! 🚀
 
 ---
