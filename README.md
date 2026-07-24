@@ -20,7 +20,7 @@ Hoje atuo na **Capgemini**.
 
 ---
 
-## 🛠️ Tecnologias que eu curto usar
+## 🛠️ Tecnologias utilizo
 
 **Backend (meu forte):**
 
