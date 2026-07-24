@@ -10,11 +10,12 @@
 
 ## 👨‍💻 Um pouco sobre mim
 
-Fala pessoal! Sou desenvolvedor Java e adoro construir soluções com **Spring Boot** e **Microserviços**.
+Fala pessoal! Sou desenvolvedor Java e construo soluções com **Spring Boot** e **Microserviços**.
 
-Gosto muito de trabalhar com **APIs RESTful**, **banco de dados** (PostgreSQL é vida ❤️) e colocar tudo para rodar na **AWS**. Também domino **Docker**, **Redis** e estou sempre atento às boas práticas como **Clean Code** e **SOLID**.
+Gosto de trabalhar com **APIs RESTful**, **banco de dados** (PostgreSQL é vida ❤️) e colocar tudo para rodar na **AWS**. Também domino **Docker**, **Redis** e estou sempre atento às boas práticas como **Clean Code** e **SOLID**.
 
-Ah, e sim... **estou de olho em oportunidades** para trabalhar em projetos desafiadores! 🚀
+Hoje atuo na **Capgemini**.
+**Estou de olho em oportunidades** para trabalhar em projetos desafiadores! 🚀
 
 ---
 
