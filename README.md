@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Um pouco sobre mim
 
-Fala pessoal! Sou desenvolvedor Java e adoro construir soluções com **Spring Boot** e **Microserviços**. Quando não estou debugando código, estou estudando alguma tecnologia nova ou pensando em como melhorar algum sistema.
+Fala pessoal! Sou desenvolvedor Java e adoro construir soluções com **Spring Boot** e **Microserviços**.
 
 Gosto muito de trabalhar com **APIs RESTful**, **banco de dados** (PostgreSQL é vida ❤️) e colocar tudo para rodar na **AWS**. Também domino **Docker**, **Redis** e estou sempre atento às boas práticas como **Clean Code** e **SOLID**.
 
